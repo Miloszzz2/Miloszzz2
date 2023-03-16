@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miloszzz2
-- 🌱 I’m currently learning JavaScript, React, Flutter
+- 🌱 I’m currently learning JavaScript, React, React Native
 - 📫 How to reach me - coming soon...
 
 <!---
