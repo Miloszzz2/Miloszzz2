@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miloszzz2
-- 🌱 I’m currently learning JavaScript, React, React Native
+- 🌱 I’m currently learning GO, Rust
 - 📫 How to reach me - coming soon...
 - 👨‍💻 My leetcode: https://leetcode.com/Milosz20/
 <!---
