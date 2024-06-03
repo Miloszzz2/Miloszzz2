@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miloszzz2
-- 📋 Mostly Writing in JS (React, Next.Js, Astro) and Flutter 
+- 📋 Mostly Writing in TS/JS (React, Next.Js, Astro) and Flutter 
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me - coming soon...
 <!---
